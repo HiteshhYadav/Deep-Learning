@@ -8,11 +8,11 @@ This repository is designed for **learners, students, and practitioners** to exp
 ---
 
 ## 📁 Project Structure
-
+```
 Deep-Learning/
 ├── DL_coursera/ # Coursera certificate and grades
 └──.ipynb # Lab assignments (DL Lab 1, 2, 3…)
-
+```
 ---
 
 ## 📌 Table of Contents
