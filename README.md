@@ -15,18 +15,6 @@ Deep-Learning/
 ```
 ---
 
-## 📌 Table of Contents
-
-- 🚀 Features  
-- 📁 Project Structure  
-- 🧠 Included Work  
-- 🛠 Getting Started  
-- 📦 Dependencies  
-- 🤝 Contributing  
-- 🛡 License
-
----
-
 ## 🚀 Features
 
 ✔ Hands-on deep learning examples  
