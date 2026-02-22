@@ -7,6 +7,14 @@ This repository is designed for **learners, students, and practitioners** to exp
 
 ---
 
+## 📁 Project Structure
+
+Deep-Learning/
+├── DL_coursera/ # Coursera certificate and grades
+└──.ipynb # Lab assignments (DL Lab 1, 2, 3…)
+
+---
+
 ## 📌 Table of Contents
 
 - 🚀 Features  
@@ -41,14 +49,11 @@ This repository currently includes work in:
 
 ## 🛠 Getting Started
 
-### 1. Clone the Repository
+Clone the Repository
 
 ```bash
 git clone https://github.com/HiteshhYadav/Deep-Learning.git
 cd Deep-Learning
 
-## 📁 Project Structure
-
-Deep-Learning/
-├── DL_coursera/ # Coursera certificate and grades
-└──.ipynb # Lab assignments (DL Lab 1, 2, 3…)
+```
+---
